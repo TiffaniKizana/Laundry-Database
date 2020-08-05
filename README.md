@@ -1,4 +1,4 @@
-# Laundry-Database
+# LaundryStore-Database
 
 This is a project that created for course : ISYS6169 – Database System.
 
